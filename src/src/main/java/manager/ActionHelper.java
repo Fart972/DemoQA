@@ -19,9 +19,7 @@ public class ActionHelper extends HelperBase{
         Actions actions = new Actions(wd);
         //actions.dragAndDrop(dragMe,dropHere).release().perform();
         actions.dragAndDropBy(dragMe,x,y);
-
-
-
+        
         pause(3000);
 
         String text = dropHere.getText();
