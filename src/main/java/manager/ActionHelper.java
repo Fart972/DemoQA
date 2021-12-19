@@ -17,8 +17,11 @@ public class ActionHelper extends HelperBase{
         dragMe.click();
 
         Actions actions = new Actions(wd);
-        //actions.dragAndDrop(dragMe,dropHere).release().perform();
-        actions.dragAndDropBy(dragMe,x,y);
+        actions.dragAndDrop(dragMe,dropHere).release().perform();
+        int x = dropHere.getRect().getX() - dragMe.getRect().getX();
+        int y = dropHere.getRect().getY() - dragMe.getRect().getY();
+
+       actions.dragAndDropBy(dragMe,x,y);
 
 
 

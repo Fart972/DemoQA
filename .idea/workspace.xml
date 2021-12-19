@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fe7d2e-13d2-408f-bfdb-480152a882c8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+    <list default="true" id="8336206e-7372-4fea-946e-65669fa2d5b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/manager/ActionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/manager/ActionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/manager/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/manager/ApplicationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ActionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ActionTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="22KkgftyXXAmqE5WfZhrcvsKyCz" />
+  <component name="ProjectId" id="22Vq3cwzLOnrwoBUfUUNBde4rSk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,11 +34,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18fe7d2e-13d2-408f-bfdb-480152a882c8" name="Changes" comment="" />
-      <created>1639593783291</created>
+      <changelist id="8336206e-7372-4fea-946e-65669fa2d5b7" name="Changes" comment="" />
+      <created>1639932904966</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639593783291</updated>
+      <updated>1639932904966</updated>
     </task>
     <servers />
   </component>
